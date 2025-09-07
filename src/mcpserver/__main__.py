@@ -1,5 +1,5 @@
 from mcpserver.deployment import mcp
-from mcp.server import serve
+
 
 def main():
     mcp.run(serve)
