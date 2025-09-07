@@ -2,7 +2,7 @@ from mcpserver.deployment import mcp
 
 
 def main():
-    mcp.run(serve)
+    mcp.run()
 
 if __name__ == "__main__":
     main()
