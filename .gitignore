@@ -1,1 +1,7 @@
-pyproject.toml 
+# Ignore Python cache and virtualenv
+__pycache__/
+*.pyc
+.venv/
+
+# Ignore pyproject.toml
+pyproject.toml
